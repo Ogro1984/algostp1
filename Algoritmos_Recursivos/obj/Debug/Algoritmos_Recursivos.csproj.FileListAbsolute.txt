@@ -1,0 +1,10 @@
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.Form1.resources
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.Properties.Resources.resources
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.csproj.GenerateResource.cache
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.csproj.CoreCompileInputs.cache
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\bin\Debug\Algoritmos_Recursivos.exe.config
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\bin\Debug\Algoritmos_Recursivos.exe
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\bin\Debug\Algoritmos_Recursivos.pdb
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.exe
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.pdb
+C:\Users\megraci\source\repos\Algoritmos_Recursivos\Algoritmos_Recursivos\obj\Debug\Algoritmos_Recursivos.csprojAssemblyReference.cache
